@@ -1,13 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+}
 
 
 
 
 
 
-
-
+/*-- Stoped at 18.21 ...https://www.youtube.com/watch?v=9cKsq14Kfsw --*/
 
 
 /*---Media Queries --*/
